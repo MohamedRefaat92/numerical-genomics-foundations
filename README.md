@@ -80,9 +80,15 @@ jupyter lab
 | `04_autodiff` | Automatic differentiation | Computation graphs, forward/backward mode |
 | `05_genomics_applications` | DESeq2, scVI internals | IRLS, condition numbers |
 
-### Module 1.2: Linear Systems & Least Squares ⏳
+### Module 1.2: Linear Systems & Least Squares ✅
 
-Coming soon...
+| Notebook | Topics | Key Concepts |
+|----------|--------|--------------|
+| `01_linear_systems` | Over/underdetermined, rank | When solutions exist |
+| `02_condition_numbers` | Numerical stability | κ(X'X) = κ(X)² |
+| `03_qr_decomposition` | QR factorization | Stable least squares |
+| `04_regularization` | Ridge, LASSO, Elastic Net | Shrinkage, sparsity |
+| `05_genomics_applications` | DESeq2, biomarkers | Practical analysis |
 
 ## 🧬 Genomics Connections
 
